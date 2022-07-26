@@ -1,4 +1,4 @@
-print()
+print("1")
 while True:
     s = input("Знак (+,-,*,/): ")
     if s == '0':
